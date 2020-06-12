@@ -6,7 +6,7 @@ import Yelp from '../../util/Yelp';
 
 
 class App extends React.Component {
-  constructor(props) {
+   constructor(props) {
     super(props);
     
     this.state = {
